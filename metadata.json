@@ -1,0 +1,5 @@
+{
+  "name": "Gemini SRT Master",
+  "description": "A professional SRT subtitle translator using Gemini 2.5 Flash and Pro models with advanced context checking and multi-threaded batch processing.",
+  "requestFramePermissions": []
+}
